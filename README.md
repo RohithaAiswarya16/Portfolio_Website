@@ -2,6 +2,9 @@
 
 This is a simple and elegant portfolio website built using HTML, CSS, and JavaScript. The purpose of this project is to showcase my skills, projects, and experiences in a visually appealing and user-friendly manner.
 
+## Live Demo
+Click [here](https://rohithaaiswarya16.github.io/Portfolio_Website/).
+
 ## Features
 * Home Section: Welcome message and a brief introduction.
 * About Section: Detailed information about myself, skills, and experiences.
